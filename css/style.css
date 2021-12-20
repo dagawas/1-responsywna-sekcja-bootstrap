@@ -6,28 +6,26 @@
 
 
 .hdr {
-  color: grey;
+  color: rgb(218, 216, 216);
   font-family: Arial, Helvetica, sans-serif;
 }
 
 
 
 
+.d-inline-flex {
 
+}
 
 .daga  {
   /* display: inline-block; */
   text-align:center;
 
-  width:100px;
-  height: 100px;
+  width:50px;
+  height: 50px;
   border-radius: 50px;
-  /* padding: 18px 11px; */
-  /* font-size: 20px; */
-  color: rgb(216, 214, 214);
-  /* size: 50px; */
   color: orange;
-  background-color: rgb(233, 232, 232);
+  background-color: rgb(247, 244, 244);
   border-radius: 100%;
   /* display: relative; */
 
